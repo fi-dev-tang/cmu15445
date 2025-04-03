@@ -8,3 +8,4 @@ cmu15445的leanring 和coding过程，目的是扎实数据库知识
 
 # weekly progress
 [2025/3/21-2025/3/28](/daily_schedule/2025_3_21_3_28.md)
+[2025/4/3-2025/4/10](/daily_schedule/2025_4_3_4_10.md)
