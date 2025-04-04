@@ -11,3 +11,7 @@ https://github.com/cmu-db/15445-bootcamp?tab=readme-ov-file
 1. references.cpp √
 2. move_semantics.cpp √
 3. move_constructors.cpp √
+
+## 2. 第二部分是C++模板(C++ Templates)
+4. templated_functions.cpp √
+5. templated_class.cpp √
